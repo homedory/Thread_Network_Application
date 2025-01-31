@@ -1,0 +1,20 @@
+{
+    "files.associations": {
+        "kernel.h": "c",
+        "socket.h": "c",
+        "coap_utils.h": "c",
+        "log.h": "c",
+        "openthread.h": "c",
+        "dk_buttons_and_leds.h": "c",
+        "coap_server_client_interface.h": "c",
+        "socket_select.h": "c",
+        "socket_types.h": "c",
+        "kernel_includes.h": "c",
+        "mem_stats.h": "c",
+        "toolchain.h": "c",
+        "sched_priq.h": "c",
+        "rb.h": "c",
+        "dlist.h": "c",
+        "coap_client_utils.h": "c"
+    }
+}
